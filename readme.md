@@ -1,9 +1,6 @@
 # Js Patterns
 
-Shoutout to 
-> [Do Factory](https://www.dofactory.com/javascript/design-patterns)
-> [Patterns.dev] (https://www.patterns.dev/)
-for helping me with this journey.
+> Shoutout to [Do Factory](https://www.dofactory.com/javascript/design-patterns), [Patterns.dev](https://www.patterns.dev/) for guiding me in this journey.
 
 Design patterns are advanced object-oriented solutions to commonly occurring software problems.  Patterns are about reusable designs and interactions of objects.  Each pattern has a name and becomes part of a vocabulary when discussing complex design solutions.
 
